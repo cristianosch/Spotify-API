@@ -1,0 +1,8 @@
+# Ignore a pasta venv
+venv
+
+# Ignore arquivos relacionados às chaves de API
+.env
+
+# Ignore todos os arquivos de texto
+*VPS.txt
